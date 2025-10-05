@@ -1,9 +1,3 @@
-local CONFIG = {
-    enabled = true,
-    interval = 1, -- 直接改为5秒
-    urls = {"https://raw.githubusercontent.com/QRNB4588ZNB/QR/refs/heads/main/TI%20RENG"}
-}
-
 -- ================ 自动发言取消密码配置 ================
 local CANCEL_CHAT_PASSWORD = "QRZNB" -- 取消发言的密码
 local CANCEL_CHAT_FILE = "cancel_auto_chat.json"
